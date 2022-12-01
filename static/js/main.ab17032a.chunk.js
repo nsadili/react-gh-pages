@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[0],[,,,function(e,t,o){e.exports=o(4)},function(e,t,o){"use strict";o.r(t);var n=o(0),c=o.n(n),r=o(2);o.n(r).a.createRoot(document.getElementById("root")).render(c.a.createElement("h2",null,"Welcome to out first locally create React App"))}],[[3,2,1]]]);
-//# sourceMappingURL=main.ab17032a.chunk.js.map
